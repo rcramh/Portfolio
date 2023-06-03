@@ -64,5 +64,3 @@ You will find all the components used and it can edited for your information acc
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-<a href="https://portfolio-rcramh.vercel.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
