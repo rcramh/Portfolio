@@ -23,8 +23,8 @@ function Projects() {
               isBlog={false}
               title="RentMyBike Web App"
               description="MERN stack based Web app, User can see, opt for renting a bike of his/her choice, pay for it using integrated payment gateway"
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/rcramh/"
+              demoLink="https://google.com/"
             />
           </Col>
 
@@ -34,8 +34,8 @@ function Projects() {
               isBlog={false}
               title="Live Weather Forcast App"
               description="weather web app to get the current weather data"
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/rcramh/"
+              demoLink="https://google.com/"
             />
           </Col>
 
