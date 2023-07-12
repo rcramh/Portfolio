@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import rental_bike from "../../Assets/Projects/rental_bike.png";
 import swimato from "../../Assets/Projects/swimato.png";
 import weather from "../../Assets/Projects/weather.png";
+import todoImg from "../../Assets/Projects/todoImg.png";
+
 
 function Projects() {
   return (
@@ -50,6 +52,17 @@ function Projects() {
               description="weather web app to get the current weather data"
               ghLink="https://github.com/rcramh/"
               demoLink="https://google.com/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todoImg}
+              isBlog={false}
+              title="Simple ToDo App"
+              description="Simple todo app to add the todo list items and delete it on completion"
+              ghLink="https://github.com/rcramh/todolistBackend"
+              demoLink="https://todolist-8cet.onrender.com/"
             />
           </Col>
 
