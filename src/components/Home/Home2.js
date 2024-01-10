@@ -19,14 +19,20 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hello, I am a developer with expertise in building web applications using the MERN (MongoDB, Express.js, React.js, and Node.js) technology stack.
+              Hi there! I'm Rahul, a software developer with expertise in building web applications using React.js and the MERN (MongoDB, Express.js, React.js, and Node.js) stack.
               <br />
               <br />In my journey as a developer, I have worked on various projects, utilizing the power of MERN stack to develop responsive and user-friendly web applications.
-                    I am well-versed in designing and implementing RESTful APIs, handling databases, and integrating third-party services.
+                    I am well-versed in designing and implementing RESTful APIs, handling databases, and integrating third-party services.  With 3+ years] of experience, I've become really good at using these technologies to bring ideas to life.
 
               <br />
               <br />
 
+                
+
+In simple terms, I create the parts of a website you see and interact with (thanks to React.js), and I'm also skilled in handling the behind-the-scenes stuff with databases and server-side logic (using MongoDB, Express.js, React.js, and Node.js).
+I enjoy turning creative concepts into real, functional applications, and I'm always up for a challenge. Let's chat and see how we can make awesome things together!"
+
+                
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
