@@ -29,8 +29,11 @@ function Home2() {
 
                 
 
-In simple terms, I create the parts of a website you see and interact with (thanks to React.js), and I'm also skilled in handling the behind-the-scenes stuff with databases and server-side logic (using MongoDB, Express.js, React.js, and Node.js).
+In simple terms, I create the parts of a website you see and interact with React.js, and I'm also skilled in handling the behind-the-scenes stuff with databases and server-side logic (using MongoDB, Express.js, React.js, and Node.js).
 I enjoy turning creative concepts into real, functional applications, and I'm always up for a challenge. Let's chat and see how we can make awesome things together!"
+Coding Profile : 
+Geeksforgeeks : https://auth.geeksforgeeks.org/user/rahul_xyz/
+Interviewebit : https://www.interviewbit.com/profile/74Rahul/
 
                 
               <br />
