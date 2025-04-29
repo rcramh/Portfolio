@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Rahul Chaubey </span>
-            from <span className="purple"> Jharkhand, India.</span>
-            <br /> I am a currently working in Micron Technology as Data Engineer, I completed my M-tech from NIT Jaipur in computer Science stream.
+            from <span className="purple"> Garhwa Jharkhand, India.</span>
+            <br /> I am a currently working in Nielsen as Senior Software Engineer, I completed my M-tech from NIT Jaipur in computer Science stream.
             <br />
 
             <br />

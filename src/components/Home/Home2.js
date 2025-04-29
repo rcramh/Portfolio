@@ -19,10 +19,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi there! I'm Rahul, a software developer with expertise in building web applications using React.js and the MERN (MongoDB, Express.js, React.js, and Node.js) stack.
+              Hi there! I'm Rahul, a software developer with 4 years of experience, expertise in building web applications using React.js and the MERN (MongoDB, Express.js, React.js, and Node.js) stack.
               <br />
               <br />In my journey as a developer, I have worked on various projects, utilizing the power of MERN stack to develop responsive and user-friendly web applications.
-                    I am well-versed in designing and implementing RESTful APIs, handling databases, and integrating third-party services.  With 3+ years] of experience, I've become really good at using these technologies to bring ideas to life.
+                    I am well-versed in designing and implementing RESTful APIs, handling databases, and integrating third-party services.  With 4+ years of experience, I've become really good at using these technologies to bring ideas to life.
 
               <br />
               <br />
